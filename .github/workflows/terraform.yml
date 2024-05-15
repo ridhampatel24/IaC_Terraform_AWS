@@ -11,7 +11,7 @@ jobs:
 
     env:
       TF_VERSION: 1.4.6 # Replace with the version of Terraform you need
-      AWS_REGION: us-east-1 # Replace with your AWS region
+      AWS_REGION: ap-south-1 # Replace with your AWS region
 
     steps:
     - name: Checkout code
